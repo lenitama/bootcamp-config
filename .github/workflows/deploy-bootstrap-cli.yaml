@@ -24,7 +24,7 @@ jobs:
                     - environment: prod
                       CDF_CLUSTER: westeurope-1
                       CDF_PROJECT: cdf-bootcamp-15-prod
-                      IDP_TENANT: d12bceb6-f218-475b-b90c-99547e26f2e7
+                      IDP_TENANT: 16e3985b-ebe8-4e24-9da4-933e21a9fc81
 
         environment: ${{ matrix.environment}}
         env:
